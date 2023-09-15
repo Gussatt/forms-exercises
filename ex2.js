@@ -11,4 +11,4 @@ function countdown() {
     }
 }
 
-const intervalId = setInterval(countdown, 20); // 2000 milliseconds = 2 seconds
+const intervalId = setInterval(countdown, 2000);
